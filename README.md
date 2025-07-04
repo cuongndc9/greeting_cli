@@ -31,5 +31,5 @@ greeting_cli --name=Cuong
 MIT © [Cuong Tran](https://github.com/103cuong)
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "A person who never made a mistake never tried anything new." - Albert Einstein
+> "The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty." - Winston Churchill
 <!-- INSPIRATIONAL_QUOTE_END -->
